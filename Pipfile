@@ -7,3 +7,6 @@ hacking = "*"
 yapf = "*"
 pytest = "*"
 mock = "*"
+
+[packages]
+requests = "*"
